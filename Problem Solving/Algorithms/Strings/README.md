@@ -1,1 +1,3 @@
 - [Anagrams](/Problem%20Solving/Algorithms/Strings/Anagram.cpp)
+- [Making Anagrams](/Problem%20Solving/Algorithms/Strings/MakingAnagrams.cpp)
+- [Common Child](/Problem%20Solving/Algorithms/Strings/CommonChild.cpp)
