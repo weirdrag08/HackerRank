@@ -20,21 +20,21 @@ The repository is built in order to showcase my skills of Coding and my consiste
 <details>
   <ul>
     <li>
-      <summary> C++ </summary>
+      <summary> <h1> C++ </h1> </summary>
         <details>
             <ul>
-            <li> <summary> Introduction </summary> </li>
-            <li> <summary> STL Library </summary> </li> 
-            <li> <summary> Strings </summary> </li> 
-            <li> <summary> Classes </summary> </li> 
+                <li> <summary> <h2> Introduction </h2> </summary> </li>
+                <li> <summary> <h2> STL Library </h2> </summary> </li> 
+                <li> <summary> <h2> Strings </h2> </summary> </li> 
+                <li> <summary> <h2> Classes </h2> </summary> </li> 
             </ul>
         </details>
     </li>
     <li> 
-      <summary> Problem Solving </summary>
+      <summary> <h1> Problem Solving </h1> </summary>
         <details>
            <ul>
-            <li> <summary> Data Structures </summary>
+             <li> <summary> <h2> Data Structures </h2> </summary>
                 <details>
                     <ul>
                         <li> <summary> Arrays </summary>  </li> 
@@ -46,7 +46,7 @@ The repository is built in order to showcase my skills of Coding and my consiste
                     </ul>
                 </details> 
             </li>
-            <li> <summary> Algorithms </summary> 
+             <li> <summary> <h2> Algorithms </h2> </summary> 
                 <details>
                     <ul>
                         <li> <summary> Warmup </summary>  </li> 
