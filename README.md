@@ -20,44 +20,44 @@ The repository is built in order to showcase my skills of Coding and my consiste
 <details>
   <ul>
     <li>
-      <summary> <h1> C++ </h1> </summary>
+      <summary> <h2> C++ </h2> </summary>
         <details>
             <ul>
-                <li> <summary> <h2> Introduction </h2> </summary> </li>
-                <li> <summary> <h2> STL Library </h2> </summary> </li> 
-                <li> <summary> <h2> Strings </h2> </summary> </li> 
-                <li> <summary> <h2> Classes </h2> </summary> </li> 
+                <li> <summary> <h4> Introduction </h4> </summary> </li>
+                <li> <summary> <h4> STL Library </h4> </summary> </li> 
+                <li> <summary> <h4> Strings </h4> </summary> </li> 
+                <li> <summary> <h4> Classes </h4> </summary> </li> 
             </ul>
         </details>
     </li>
     <li> 
-      <summary> <h1> Problem Solving </h1> </summary>
+      <summary> <h2> Problem Solving </h2> </summary>
         <details>
            <ul>
-             <li> <summary> <h2> Data Structures </h2> </summary>
+             <li> <summary> <h4> Data Structures </h4> </summary>
                 <details>
                     <ul>
-                        <li> <summary> Arrays </summary>  </li> 
-                        <li> <summary> Linked Lists </summary>  </li> 
-                        <li> <summary> Stacks </summary>  </li> 
-                        <li> <summary> Queues </summary>  </li> 
-                        <li> <summary> Trees </summary>  </li> 
-                        <li> <summary> Heaps </summary>  </li> 
+                        <li> <summary> <h3> Arrays </h3> </summary> </li> 
+                        <li> <summary> <h3> Linked Lists </h3> </summary> </li> 
+                        <li> <summary> <h3> Stacks </h3> </summary> </li> 
+                        <li> <summary> <h3> Queues </h3> </summary> </li> 
+                        <li> <summary> <h3> Trees </h3> </summary> </li> 
+                        <li> <summary> <h3> Heaps </h3> </summary> </li> 
                     </ul>
                 </details> 
             </li>
-             <li> <summary> <h2> Algorithms </h2> </summary> 
+             <li> <summary> <h4> Algorithms </h4> </summary> 
                 <details>
                     <ul>
-                        <li> <summary> Warmup </summary>  </li> 
-                        <li> <summary> Implementation </summary>  </li> 
-                        <li> <summary> Searching </summary>  </li> 
-                        <li> <summary> Sorting </summary>  </li> 
-                        <li> <summary> Strings </summary>  </li> 
-                        <li> <summary> Recursion </summary>  </li> 
-                        <li> <summary> Greedy </summary>  </li> 
-                        <li> <summary> Graph Theory </summary>  </li> 
-                        <li> <summary> Dynamic Programming </summary>  </li> 
+                        <li> <summary> <h3> Warmup </h3> </summary>  </li> 
+                        <li> <summary> <h3> Implementation </h3> </summary>  </li> 
+                        <li> <summary> <h3> Searching </h3> </summary>  </li> 
+                        <li> <summary> <h3> Sorting </h3> </summary>  </li> 
+                        <li> <summary> <h3> Strings </h3> </summary>  </li> 
+                        <li> <summary> <h3> Recursion </h3> </summary>  </li> 
+                        <li> <summary> <h3> Greedy </h3> </summary>  </li> 
+                        <li> <summary> <h3> Graph Theory </h3> </summary>  </li> 
+                        <li> <summary> <h3> Dynamic Programming </h3> </summary>  </li> 
                     </ul>
                 </details> 
             </li>
