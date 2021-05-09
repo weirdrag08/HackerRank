@@ -16,3 +16,27 @@ The repository is built in order to showcase my skills of Coding and my consiste
 # 💻 Contents
 - [C++](/C%2B%2B/README.md)
 - [Problem Solving](/Problem%20Solving/README.md)
+
+
+<details>
+  <summary> C++ </summary>
+    <details>
+        <summary> Introduction </summary>
+        <summary> STL Library </summary>
+        <summary> Strings </summary>
+        <summary> Classes </summary>
+    </details>
+  <summary> Problem Solving </summary>
+    <details>
+        <summary> Data Structures </summary>
+            <details>
+                <summary> Arrays </summary>
+                <summary> Linked Lists </summary>
+                <summary> Stacks </summary>
+                <summary> Queues </summary>
+                <summary> Trees </summary>
+                <summary> Heaps </summary>
+            </details>
+        <summary> Algorithms </summary>
+    </details>
+</details>
