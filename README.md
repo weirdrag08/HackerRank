@@ -32,15 +32,23 @@ The repository is built in order to showcase my skills of Coding and my consiste
 <details>
   <summary> Problem Solving </summary>
     <details>
-        <summary> Data Structures </summary>
+       <ul>
+        <li> <summary> Data Structures </summary>
             <details>
-                <summary> Arrays </summary>
-                <summary> Linked Lists </summary>
-                <summary> Stacks </summary>
-                <summary> Queues </summary>
-                <summary> Trees </summary>
-                <summary> Heaps </summary>
-            </details>
-        <summary> Algorithms </summary>
+                <ul>
+                    <li> <summary> Arrays </summary>  </li> 
+                    <li> <summary> Linked Lists </summary>  </li> 
+                    <li> <summary> Stacks </summary>  </li> 
+                    <li> <summary> Queues </summary>  </li> 
+                    <li> <summary> Trees </summary>  </li> 
+                    <li> <summary> Heaps </summary>  </li> 
+                </ul>
+            </details> 
+        </li>
+        <li> <summary> Algorithms </summary> 
+            <details>
+            </details> 
+        </li>
+      </ul>
     </details>
 </details>
