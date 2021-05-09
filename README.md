@@ -20,10 +20,12 @@ The repository is built in order to showcase my skills of Coding and my consiste
 <details>
   <summary> C++ </summary>
     <details>
-        <summary> Introduction </summary>
-        <summary> STL Library </summary>
-        <summary> Strings </summary>
-        <summary> Classes </summary>
+        <ul>
+        <li> <summary> Introduction </summary> </li>
+        <li> <summary> STL Library </summary> </li> 
+        <li> <summary> Strings </summary> </li> 
+        <li> <summary> Classes </summary> </li> 
+        </ul>
     </details>
 </details>
 
