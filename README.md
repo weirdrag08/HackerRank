@@ -18,37 +18,51 @@ The repository is built in order to showcase my skills of Coding and my consiste
 - [Problem Solving](/Problem%20Solving/README.md) -->
 
 <details>
-  <summary> C++ </summary>
-    <details>
-        <ul>
-        <li> <summary> Introduction </summary> </li>
-        <li> <summary> STL Library </summary> </li> 
-        <li> <summary> Strings </summary> </li> 
-        <li> <summary> Classes </summary> </li> 
-        </ul>
-    </details>
-</details>
-
-<details>
-  <summary> Problem Solving </summary>
-    <details>
-       <ul>
-        <li> <summary> Data Structures </summary>
-            <details>
-                <ul>
-                    <li> <summary> Arrays </summary>  </li> 
-                    <li> <summary> Linked Lists </summary>  </li> 
-                    <li> <summary> Stacks </summary>  </li> 
-                    <li> <summary> Queues </summary>  </li> 
-                    <li> <summary> Trees </summary>  </li> 
-                    <li> <summary> Heaps </summary>  </li> 
-                </ul>
-            </details> 
-        </li>
-        <li> <summary> Algorithms </summary> 
-            <details>
-            </details> 
-        </li>
-      </ul>
-    </details>
+  <ul>
+    <li>
+      <summary> C++ </summary>
+        <details>
+            <ul>
+            <li> <summary> Introduction </summary> </li>
+            <li> <summary> STL Library </summary> </li> 
+            <li> <summary> Strings </summary> </li> 
+            <li> <summary> Classes </summary> </li> 
+            </ul>
+        </details>
+    </li>
+    <li> 
+      <summary> Problem Solving </summary>
+        <details>
+           <ul>
+            <li> <summary> Data Structures </summary>
+                <details>
+                    <ul>
+                        <li> <summary> Arrays </summary>  </li> 
+                        <li> <summary> Linked Lists </summary>  </li> 
+                        <li> <summary> Stacks </summary>  </li> 
+                        <li> <summary> Queues </summary>  </li> 
+                        <li> <summary> Trees </summary>  </li> 
+                        <li> <summary> Heaps </summary>  </li> 
+                    </ul>
+                </details> 
+            </li>
+            <li> <summary> Algorithms </summary> 
+                <details>
+                    <ul>
+                        <li> <summary> Warmup </summary>  </li> 
+                        <li> <summary> Implementation </summary>  </li> 
+                        <li> <summary> Searching </summary>  </li> 
+                        <li> <summary> Sorting </summary>  </li> 
+                        <li> <summary> Strings </summary>  </li> 
+                        <li> <summary> Recursion </summary>  </li> 
+                        <li> <summary> Greedy </summary>  </li> 
+                        <li> <summary> Graph Theory </summary>  </li> 
+                        <li> <summary> Dynamic Programming </summary>  </li> 
+                    </ul>
+                </details> 
+            </li>
+          </ul>
+        </details> 
+    </li>
+  </ul>
 </details>
