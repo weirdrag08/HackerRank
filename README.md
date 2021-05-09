@@ -14,9 +14,8 @@ The repository is built in order to showcase my skills of Coding and my consiste
 <br>
 
 # 💻 Contents
-- [C++](/C%2B%2B/README.md)
-- [Problem Solving](/Problem%20Solving/README.md)
-
+<!-- - [C++](/C%2B%2B/README.md)
+- [Problem Solving](/Problem%20Solving/README.md) -->
 
 <details>
   <summary> C++ </summary>
@@ -26,6 +25,9 @@ The repository is built in order to showcase my skills of Coding and my consiste
         <summary> Strings </summary>
         <summary> Classes </summary>
     </details>
+</details>
+
+<details>
   <summary> Problem Solving </summary>
     <details>
         <summary> Data Structures </summary>
