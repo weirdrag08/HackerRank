@@ -1,6 +1,6 @@
 Contents
 
-- [Compare Two Linked ists](/Problem%20Solving/Data%20Structures/Linked%20List/CompareTwoLinkedList.cpp)
+- [Compare Two Linked Lists](/Problem%20Solving/Data%20Structures/Linked%20List/CompareTwoLinkedList.cpp)
 - [Cycle Detection](/Problem%20Solving/Data%20Structures/Linked%20List/CycleDetection.cpp)
 - [Delete A Node](/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp)
 - [Intersection of Two Linklists](/Problem%20Solving/Data%20Structures/Linked%20List/FindMergePointofTwoLists.cpp)
