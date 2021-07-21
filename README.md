@@ -23,7 +23,13 @@ The repository is built in order to showcase my skills of Coding and my consiste
       <summary> <h2> C++ </h2> </summary>
         <details>
             <ul>
-                <li> <summary> <h4> Introduction </h4> </summary> </li>
+                <li> <summary> 
+                  <h4> Introduction </h4> 
+                  <ul>
+                    <li><a href="/C%2B%2B/Introduction/ArraysIntroduction.cpp">Arrays Introduction </a>
+                    <li><a href="/C%2B%2B/Introduction/BasicDataTypes.cpp">Basic Data Types </a>
+                  </ul>
+                 </summary> </li>
                 <li> <summary> <h4> STL Library </h4> </summary> </li> 
                 <li> <summary> <h4> Strings </h4> </summary> </li> 
                 <li> <summary> <h4> Classes </h4> </summary> </li> 
