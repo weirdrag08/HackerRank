@@ -28,6 +28,9 @@ The repository is built in order to showcase my skills of Coding and my consiste
                   <ul>
                     <li><a href="/C%2B%2B/Introduction/ArraysIntroduction.cpp">Arrays Introduction </a>
                     <li><a href="/C%2B%2B/Introduction/BasicDataTypes.cpp">Basic Data Types </a>
+                    <li><a href="/C%2B%2B/Introduction/ConditionalStatements.cpp">Conditional Statements </a>
+                    <li><a href="/C%2B%2B/Introduction/ForLoop.cpp">For Loop </a>
+                    <li><a href="/C%2B%2B/Introduction/Functions.cpp">Functions </a>
                   </ul>
                  </summary> </li>
                 <li> <summary> <h4> STL Library </h4> </summary> </li> 
