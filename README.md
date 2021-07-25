@@ -32,6 +32,7 @@ The repository is built in order to showcase my skills of Coding and my consiste
                     <li><a href="/C%2B%2B/Introduction/ForLoop.cpp">For Loop </a>
                     <li><a href="/C%2B%2B/Introduction/Functions.cpp">Functions </a>
                     <li><a href="/C%2B%2B/Introduction/InputOutput.cpp">Input & Output </a>
+                    <li><a href="/C%2B%2B/Introduction/Pointer">Pointers </a>
                   </ul>
                  </summary> </li>
                 <li> <summary> <h4> STL Library </h4> </summary> </li> 
