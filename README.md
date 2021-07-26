@@ -37,7 +37,12 @@ The repository is built in order to showcase my skills of Coding and my consiste
                  </summary> </li>
                 <li> <summary> <h4> STL Library </h4> </summary> </li> 
                 <li> <summary> <h4> Strings </h4> </summary> </li> 
-                <li> <summary> <h4> Classes </h4> </summary> </li> 
+                <li> <summary> <h4> Classes </h4>
+                  <ul>
+                    <li><a href="/C%2B%2B/Classes/Class.cpp">Classes </a>
+                    <li><a href="/C%2B%2B/Classes/ClassesAndObjects.cpp">Classes And Objects </a>
+                  </ul>
+                  </summary> </li> 
             </ul>
         </details>
     </li>
