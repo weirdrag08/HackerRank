@@ -35,12 +35,17 @@ The repository is built in order to showcase my skills of Coding and my consiste
                     <li><a href="/C%2B%2B/Introduction/Pointer">Pointers </a>
                   </ul>
                  </summary> </li>
-                <li> <summary> <h4> STL Library </h4> 
+                <li> <summary> <h4> Strings </h4> 
                   <ul>
                     <li><a href="/C%2B%2B/Strings/Strings.cpp">Strings </a>
                   </ul>
                   </summary> </li> 
-                <li> <summary> <h4> Strings </h4> </summary> </li> 
+                <li> <summary> <h4> STL Library </h4>
+                  <ul>
+                    <li><a href="/C%2B%2B/STL/Vector-Erase.cpp">Vector Erase </a>
+                    <li><a href="/C%2B%2B/Classes/Vector-Sort.cpp">Vector Sort </a>
+                  </ul>
+                  </summary> </li> 
                 <li> <summary> <h4> Classes </h4>
                   <ul>
                     <li><a href="/C%2B%2B/Classes/Class.cpp">Classes </a>
