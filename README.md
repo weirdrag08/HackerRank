@@ -62,7 +62,13 @@ The repository is built in order to showcase my skills of Coding and my consiste
              <li> <summary> <h4> Data Structures </h4> </summary>
                 <details>
                     <ul>
-                        <li> <summary> <h5> Arrays </h5> </summary> </li> 
+                        <li> <summary> <h5> Arrays </h5> 
+                          <ul>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Arrays/Array%20Manipulation">Array Manipulation </a>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Arrays/Arrays%20-%20DS">Arrays DataStructure </a>
+                              <li><a href="/Problem%20Solving/Data%20Structures/Arrays/Sparse%20Arrays">Sparse Arrays </a>
+                          </ul>
+                          </summary> </li> 
                         <li> <summary> <h5> Linked Lists </h35> </summary> </li> 
                         <li> <summary> <h5> Stacks </h5> </summary> </li> 
                         <li> <summary> <h5> Queues </h5> </summary> </li> 
