@@ -73,7 +73,12 @@ The repository is built in order to showcase my skills of Coding and my consiste
                         <li> <summary> <h5> Stacks </h5> </summary> </li> 
                         <li> <summary> <h5> Queues </h5> </summary> </li> 
                         <li> <summary> <h5> Trees </h5> </summary> </li> 
-                        <li> <summary> <h5> Heaps </h5> </summary> </li> 
+                        <li> <summary> <h5> Heaps </h5> 
+                          <ul>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Heaps/FindRunningMedian.cpp">Find Running Median </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Heaps/JesseAndCookies.cpp">Jesse And Cookies </a></li>
+                          </ul>
+                          </summary> </li> 
                     </ul>
                 </details> 
             </li>
