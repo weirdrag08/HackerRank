@@ -74,6 +74,7 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/CompareTwoLinkedList.cpp">Compare Two Linked Lists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/CycleDetection.cpp">Cycle Detection </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
                           </ul>
                           </summary> </li> 
                         <li> <summary> <h5> Stacks </h5> </summary> </li> 
