@@ -76,8 +76,8 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/FindMergePointofTwoLists.cpp">Find Merge Point Of Two Lists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtHeadOfLinkedList.cpp">Insert a Node At head of Linked Lists </a></li>
-                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/CycleDetection.cpp">Cycle Detection </a></li>
-                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtSpecificPosition.cpp">Insert a Node At Specific Position of Linked List</a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtTailOfLinkedList.cpp">Insert a Node At Tail of Linked Lists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
                           </ul>
                           </summary> </li> 
