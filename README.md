@@ -78,7 +78,9 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtHeadOfLinkedList.cpp">Insert a Node At head of Linked Lists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtSpecificPosition.cpp">Insert a Node At Specific Position of Linked List</a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/InsertANodeAtTailOfLinkedList.cpp">Insert a Node At Tail of Linked Lists </a></li>
-                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/DeleteANode.cpp">Delete A Node </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/MergeTwoSortedLists.cpp">Merge Two Sorted Lists </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/PrintElementsOfLinkedList.cpp">Print Elements of LinkedLists </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/PrintInReverse.cpp">Print Reverse</a></li>
                           </ul>
                           </summary> </li> 
                         <li> <summary> <h5> Stacks </h5> </summary> </li> 
