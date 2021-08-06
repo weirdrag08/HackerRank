@@ -81,6 +81,7 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/MergeTwoSortedLists.cpp">Merge Two Sorted Lists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/PrintElementsOfLinkedList.cpp">Print Elements of LinkedLists </a></li>
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/PrintInReverse.cpp">Print Reverse</a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/ReverseALinkedList.cpp">Reverse A LinkedList</a></li>
                           </ul>
                           </summary> </li> 
                         <li> <summary> <h5> Stacks </h5> </summary> </li> 
