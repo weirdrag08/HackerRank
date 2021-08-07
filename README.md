@@ -84,7 +84,10 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Linked%20List/ReverseALinkedList.cpp">Reverse A LinkedList</a></li>
                           </ul>
                           </summary> </li> 
-                        <li> <summary> <h5> Stacks </h5> </summary> </li> 
+                        <li> <summary> <h5> Stacks </h5>
+                          <li><a href="/Problem%20Solving/Data%20Structures/Stack/BalancedBrackets.cpp">Balanced Brackets </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Stack/LargestRectangle.cpp">Largest Rectangle </a></li>
+                          </summary> </li> 
                         <li> <summary> <h5> Queues </h5> </summary> </li> 
                         <li> <summary> <h5> Trees </h5> </summary> </li> 
                         <li> <summary> <h5> Heaps </h5> 
