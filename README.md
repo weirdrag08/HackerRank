@@ -89,7 +89,13 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Data%20Structures/Stack/LargestRectangle.cpp">Largest Rectangle </a></li>
                           </summary> </li> 
                         <li> <summary> <h5> Queues </h5> </summary> </li> 
-                        <li> <summary> <h5> Trees </h5> </summary> </li> 
+                        <li> <summary> <h5> Trees </h5> 
+                          <ul>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Trees/HeightOfBinaryTree.cppn">Height of Binary Tree </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Arrays/Arrays%20-%20DS">Arrays DataStructure </a></li>
+                            <li><a href="/Problem%20Solving/Data%20Structures/Arrays/Sparse%20Arrays">Sparse Arrays </a></li>
+                          </ul>
+                          </summary> </li> 
                         <li> <summary> <h5> Heaps </h5> 
                           <ul>
                             <li><a href="/Problem%20Solving/Data%20Structures/Heaps/FindRunningMedian.cpp">Find Running Median </a></li>
