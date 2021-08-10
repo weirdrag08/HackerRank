@@ -115,7 +115,13 @@ The repository is built in order to showcase my skills of Coding and my consiste
                         <li> <summary> <h5> Implementation </h5> </summary>  </li> 
                         <li> <summary> <h5> Searching </h5> </summary>  </li> 
                         <li> <summary> <h5> Sorting </h5> </summary>  </li> 
-                        <li> <summary> <h5> Strings </h5> </summary>  </li> 
+                        <li> <summary> <h5> Strings </h5> 
+                          <ul>                            
+                            <li><a href="/Problem%20Solving/Algorithms/Strings/Anagram.cpp">Anagrams </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Strings/CommonChild.cpp">Common Child </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Strings/MakingAnagrams.cpp">Making Anagrams </a>
+                          </ul>
+                          </summary>  </li> 
                         <li> <summary> <h5> Recursion </h5> </summary>  </li> 
                         <li> <summary> <h5> Greedy </h5> </summary>  </li> 
                         <li> <summary> <h5> Graph Theory </h5> </summary>  </li> 
