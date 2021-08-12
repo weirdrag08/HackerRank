@@ -111,14 +111,19 @@ The repository is built in order to showcase my skills of Coding and my consiste
              <li> <summary> <h4> Algorithms </h4> </summary> 
                 <details>
                     <ul>
-                        <li> <summary> <h5> Warmup </h5> </summary>  </li> 
+                        <li> <summary> <h5> Warmup </h5> 
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/BirthdayCakeCandles.cpp">Birthday Cake Candles </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Searching/IceCreamParlor.cpp">Ice cream Parlor </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Searching/MissingNumbers.cpp">Missing Numbers </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Searching/Pairs.cpp">Pairs </a>
+                          </summary>  </li> 
                         <li> <summary> <h5> Implementation </h5> </summary>  </li> 
                         <li> <summary> <h5> Searching </h5> 
                           <ul>                            
                             <li><a href="/Problem%20Solving/Algorithms/Searching/ConnectedCellsInAGrid.cpp">Connected Cell in a Grid </a>
-                            <li><a href="/Problem%20Solving/Algorithms/Searching/IceCreamParlor.cpp">Ice cream Parlor </a>
-                            <li><a href="/Problem%20Solving/Algorithms/Searching/MissingNumbers.cpp">Missing Numbers </a>
-                            <li><a href="/Problem%20Solving/Algorithms/Searching/Pairs.cpp">Pairs </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/CompareTheTriplets.cpp">Compare The Triplet </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/DiagonalDifference.cpp">Diagonal Difference</a>
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/PlusMinus.cpp">Plus Minus </a>
                           </ul>
                           </summary>  </li> 
                         <li> <summary> <h5> Sorting </h5> </summary>  </li> 
