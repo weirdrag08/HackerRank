@@ -116,9 +116,10 @@ The repository is built in order to showcase my skills of Coding and my consiste
                             <li><a href="/Problem%20Solving/Algorithms/Warmup/CompareTheTriplets.cpp">Compare The Triplet </a>
                             <li><a href="/Problem%20Solving/Algorithms/Warmup/DiagonalDifference.cpp">Diagonal Difference</a>
                             <li><a href="/Problem%20Solving/Algorithms/Warmup/PlusMinus.cpp">Plus Minus </a>
-                              <li><a href="/Problem%20Solving/Algorithms/Warmup/SimpleArraySum.cpp">Simple Array Sum </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/SimpleArraySum.cpp">Simple Array Sum </a>
                             <li><a href="/Problem%20Solving/Algorithms/Warmup/SolveMeFirst.cpp">Solve Me First</a>
-                            <li><a href="/Problem%20Solving/Algorithms/Warmup/PlusMinus.cpp">Plus Minus </a>
+                            <li><a href="/Problem%20Solving/Algorithms/Warmup/Staircase.cpp">Staircase </a>
+                              <li><a href="/Problem%20Solving/Algorithms/Warmup/VeryBigSum.cpp">Very Big Sum </a>
                           </summary>  </li> 
                         <li> <summary> <h5> Implementation </h5> </summary>  </li> 
                         <li> <summary> <h5> Searching </h5> 
